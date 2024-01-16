@@ -86,7 +86,7 @@
             android:id="@+id/text_tela_cadastro"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="16dp"
             android:text="@string/text_tela_cadastro"
             android:textColor="@color/black"
             android:textSize="20sp"
