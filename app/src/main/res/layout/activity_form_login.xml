@@ -37,7 +37,8 @@
             android:inputType="textEmailAddress"
             app:layout_constraintEnd_toEndOf="@+id/ConteinerComponents"
             app:layout_constraintStart_toStartOf="@+id/ConteinerComponents"
-            app:layout_constraintTop_toTopOf="@+id/ConteinerComponents" />
+            app:layout_constraintTop_toTopOf="@+id/ConteinerComponents"
+            tools:ignore="HardcodedText" />
 
         <EditText
             android:id="@+id/edit_password"
