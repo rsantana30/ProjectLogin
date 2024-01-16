@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ProjectLogin</string>
+    <string name="Login">ENTRAR</string>
+    <string name="text_tela_cadastro">Faça seu Cadastro Clicando Aqui</string>
+    <string name="tilte_cadastro">Cadastre-se</string>
+    <string name="Deslogar">Sair</string>
+
+
 </resources>

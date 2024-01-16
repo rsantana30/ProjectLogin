@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836311908461",
+    "project_id": "digaomotos027-21ff7",
+    "storage_bucket": "digaomotos027-21ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836311908461:android:1b3b698b924cedaa177f64",
+        "android_client_info": {
+          "package_name": "com.example.projectlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzowGHW16ftbs-9lqnijQ6N-OE2Ph1whI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

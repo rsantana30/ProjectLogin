@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="pink">#f92edc</color>
+    <color name="purple">#811fee</color>
+    <color name="blue">#001af5</color>
+    <color name="black_hell">#080808</color>
+    <color name="blue_supermotos">#1c2574</color>
+    <color name="cinza_digaomotos">#828283</color>
+    
 </resources>
