@@ -1,11 +1,11 @@
 # ProjectLogin
-Telas de login, cadastro de usuário e tela de usuário utilizando firebase firestore foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android.
+Telas de login, cadastro de usuário e tela de usuário utilizando firebase firestore foi um dos aplicativos que desenvolvi para dar meus primeiros passos com desenvolvimento Android.
 
 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/imge01.png" width="260">&emsp;<img src="/result/image02.png" width="260">&emsp;<img src="/result/image03.png" width="260">
+<img src="/results/imge01.png" width="260">&emsp;<img src="/results/image02.png" width="260">&emsp;<img src="/results/image03.png" width="260">
 
 ## Tecnologias
 * Java
