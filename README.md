@@ -1,21 +1,30 @@
 # ProjectLogin
-Projeto Completo com Firebase Firestore
+Projeto Android: FirebaseUserApp
+Descrição:
+Este projeto Android é uma aplicação simples que utiliza o Firebase Authentication para autenticação de usuários e o Firebase Firestore para armazenar e recuperar informações do usuário.
 
-🚀 Apresento meu mais recente projeto Android, uma aplicação completa que oferece uma experiência de usuário fluida e segura. Confira os principais recursos:
+Funcionalidades:
+Tela Splash (SplashActivity):
 
-🌟 Tela de Splash: Uma introdução visual envolvente para criar uma primeira impressão memorável.
+Tela inicial exibindo o logotipo do aplicativo.
+Breve animação ou carregamento antes de navegar para a tela de login.
+Tela de Login (LoginActivity):
 
-🔒 Tela de Login: Implementei uma autenticação robusta utilizando o Firebase Authentication para garantir a segurança do acesso ao aplicativo.
+Formulário de login com campos de e-mail e senha.
+Botão para efetuar login.
+Link para a tela de cadastro de usuário.
+Integração com o Firebase Authentication para autenticação.
+Tela de Cadastro de Usuário (SignUpActivity):
 
-📝 Tela de Cadastro de Usuário: Oferecendo uma interface intuitiva, os usuários podem facilmente se cadastrar, com os dados sendo armazenados no Firebase Firestore.
+Formulário de cadastro com campos como nome, e-mail e senha.
+Botão para criar uma nova conta.
+Validação de campos e exibição de mensagens de erro.
+Integração com o Firebase Authentication para criar uma nova conta de usuário.
+Tela de Usuário (UserProfileActivity):
 
-👤 Tela do Usuário: Uma experiência personalizada para cada usuário, apresentando informações armazenadas de forma eficiente no Firestore.
-
-🔥 Firebase Firestore: Utilizei o Firestore para armazenar dados de maneira escalável e em tempo real, garantindo uma sincronização perfeita entre dispositivos.
-
-🛠️ Tecnologias Utilizadas: Android Studio, Java, Firebase Authentication, Firebase Firestore.
-
-Este projeto demonstra meu compromisso com o desenvolvimento móvel de alta qualidade, desde a fase de design até a implementação, garantindo a segurança e a eficiência dos dados. Estou entusiasmado com o resultado e ansioso para explorar novas oportunidades no desenvolvimento Android.
+Exibição das informações do usuário logado.
+Botão para fazer logout.
+Integração com o Firebase Firestore para recuperar e exibir dados do usuário.
 
 
 
