@@ -11,6 +11,7 @@ Telas de login, cadastro de usuário e tela de usuário utilizando firebase fire
 * Java
 * Activity para host de telas
 * ViewGroup
+    * ConstraintLayout
     * RelativeLayout
     * LinearLayout
 - Components de UI
