@@ -1,5 +1,21 @@
 # ProjectLogin
-Telas de login, cadastro de usuário e tela de usuário utilizando firebase firestore foi um dos aplicativos que desenvolvi para dar meus primeiros passos com desenvolvimento Android.
+Projeto Completo com Firebase Firestore
+
+🚀 Apresento meu mais recente projeto Android, uma aplicação completa que oferece uma experiência de usuário fluida e segura. Confira os principais recursos:
+
+🌟 Tela de Splash: Uma introdução visual envolvente para criar uma primeira impressão memorável.
+
+🔒 Tela de Login: Implementei uma autenticação robusta utilizando o Firebase Authentication para garantir a segurança do acesso ao aplicativo.
+
+📝 Tela de Cadastro de Usuário: Oferecendo uma interface intuitiva, os usuários podem facilmente se cadastrar, com os dados sendo armazenados no Firebase Firestore.
+
+👤 Tela do Usuário: Uma experiência personalizada para cada usuário, apresentando informações armazenadas de forma eficiente no Firestore.
+
+🔥 Firebase Firestore: Utilizei o Firestore para armazenar dados de maneira escalável e em tempo real, garantindo uma sincronização perfeita entre dispositivos.
+
+🛠️ Tecnologias Utilizadas: Android Studio, Java, Firebase Authentication, Firebase Firestore.
+
+Este projeto demonstra meu compromisso com o desenvolvimento móvel de alta qualidade, desde a fase de design até a implementação, garantindo a segurança e a eficiência dos dados. Estou entusiasmado com o resultado e ansioso para explorar novas oportunidades no desenvolvimento Android.
 
 
 
@@ -7,25 +23,6 @@ Telas de login, cadastro de usuário e tela de usuário utilizando firebase fire
 <!-- You can add more screenshots here if you like -->
 <img src="/results/imge01.png" width="260">&emsp;<img src="/results/image02.png" width="260">&emsp;<img src="/results/image04.png" width="260"><img src="/results/image03.png" width="260">
 
-## Tecnologias
-* Java
-* Activity para host de telas
-* ViewGroup
-    * ConstraintLayout
-    * RelativeLayout
-    * LinearLayout
-- Components de UI
-    - TextView
-    - EditText
-    - Button
-- Toast para display de mensagens
-- Intent Explicita para abrir a proxima Activit
-- FindViewById para recuperar components de UI
-- String resource para concatenação de textos
-
-
-### TODO
-- Criar novas Activits
 
 ## Author
 Raick Santana (follow me on [LinkedIn](https://www.linkedin.com/in/raick-santana-8ba601272/))
