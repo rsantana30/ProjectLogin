@@ -95,6 +95,6 @@
         app:layout_constraintBottom_toBottomOf="@+id/conteinerComponents"
         app:layout_constraintEnd_toEndOf="@+id/conteinerComponents"
         app:layout_constraintStart_toStartOf="@+id/conteinerComponents"
-        app:layout_constraintTop_toBottomOf="@+id/text_email_usuario" />
+        app:layout_constraintTop_toBottomOf="@+id/email_usuario" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
